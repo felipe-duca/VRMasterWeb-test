@@ -1,0 +1,2 @@
+ITEM     PRODUTO     CÓDIGO     QTD. EMBALAGEM     QUANTIDADE     CÓDIGO DE BARRAS     PREÇO UNITÁRIO     VALOR TOTAL     OBSERVAÇÃO                     
+1        CEBOLA      1          1.000              10             000001               4.00               38              Teste desconto e acréscimo     
