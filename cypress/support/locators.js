@@ -5,7 +5,7 @@ const locators = {
         SWITCH_LEMBRAR_USUARIO: '.lever',
         BTN_ENTRAR: '.btn__login'
     },
-    BARRA_BUSCA: 'vr-search',
+    BARRA_BUSCA: 'vrc-autocomplete',
     OPERACAO: {
         CADASTRO: {
             PESSOA: {
